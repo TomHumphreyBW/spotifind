@@ -1,2 +1,4 @@
-# spotifind
-learning to make a react app using the spotify api
+# ReactBoilerplate
+Setting up my own react boilerplate
+
+Please read [DEVELOPERS.md](DEVELOPERS.md) to set up and run the project locally.
